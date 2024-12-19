@@ -1,0 +1,1 @@
+from aocd import data
